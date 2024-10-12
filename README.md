@@ -13,9 +13,11 @@ My Notes App is a simple and intuitive mobile application for managing your pers
 ## Screenshots
 
 <!-- You can add screenshots here by using the format below and replace the path -->
-![Light Mode]![light_add_note_fill](https://github.com/user-attachments/assets/602989cb-6ed7-44b1-b011-2cceacbc6ae4)
+![Light Mode]![light_add_note_fill](https://github.com/user-attachments/assets/602989cb-6ed7-44b1-b011-2cceacbc6ae4)![light_list](https://github.com/user-attachments/assets/e8613197-aa80-46e7-a403-7d9b8b3dbd03)
 
-![Dark Mode] ![dark_add_note](https://github.com/user-attachments/assets/00d223eb-d7ed-4a09-b6f3-acae1e9c139c)
+
+![Dark Mode] ![dark_add_note](https://github.com/user-attachments/assets/00d223eb-d7ed-4a09-b6f3-acae1e9c139c)![dark_list](https://github.com/user-attachments/assets/9f09ecf8-c4c1-4bf0-b394-c1564a1a7f50)
+
 
 
 ## About Me
